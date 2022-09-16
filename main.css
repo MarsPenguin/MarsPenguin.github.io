@@ -2,6 +2,22 @@ body{
 	background:#999;
 	font-family: arial;
 }
+
+header{
+	background: rgb(121, 147, 200);
+	color: white;
+	padding: 5px 15px 0 15px;
+  
+}
+nav ul li {
+	background: rgb(122, 116, 116);
+	color: rgb(206, 247, 130);
+	display: inline-block;
+	list-style-type: none;
+	padding: 5px 20px;
+}
+
+
 h1,h2{
 	color: yellow;
 }
